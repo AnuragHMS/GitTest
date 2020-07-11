@@ -1,4 +1,9 @@
 body {
-    background: green;
+    background-color: green;
     text-align: center;
+    color: purple;
+}
+
+h1 {
+    color: green;
 }
